@@ -68,3 +68,5 @@ export DISPLAY=172.22.0.1:0
 export DISPLAY=172.23.224.1:0
 export DISPLAY=172.23.224.1:0
 export DISPLAY=172.24.32.1:0
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
